@@ -42,5 +42,11 @@
   },
   "engines": {
     "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "@metamask/sdk": "^0.31.1",
+    "@wagmi/connectors": "^5.5.2",
+    "cross-fetch": "^3.1.5",
+    "ethers": "^5.7.0"
   }
 }
